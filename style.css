@@ -1,0 +1,25 @@
+ul{
+    list-style-type: circle ;
+}
+section{
+    border: medium solid blue;
+}
+#second-item{
+    background-color: aqua;
+}
+#box{
+    border: medium solid red ;
+    height: 2in;
+    width: 50%;
+    margin: auto;
+}
+#box div{
+    border: medium solid blue;
+    margin: 50px;
+    width: 30%;
+}
+ #box span{
+    border: medium solid blue;
+    margin: 50px;
+    width: 30%;
+ }

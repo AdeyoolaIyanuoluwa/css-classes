@@ -1,0 +1,16 @@
+#box{
+    height: 40vh;
+    width: 70%;
+    margin: auto;
+    margin-top: 10vh;
+      background-color: orange;
+    padding: 0.2in;
+    border: thick solid orange;
+    background-image: url('FY.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+     background-attachment: fixed; 
+     -webkit-background-clip: text;
+    color: transparent;
+    font-size: 3em;
+}

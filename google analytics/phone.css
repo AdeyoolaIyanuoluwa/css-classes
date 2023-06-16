@@ -1,0 +1,172 @@
+ @media(min-width: 200px) and (max-width: 400px){
+    header{
+        font-size: 15px;
+        margin: 10px;
+    }
+    #gmail{
+        margin-left: 80px;
+        font-size: 15px;
+    }
+    #cour{
+        height: 85px;
+        background-color: #ff7700;
+        color: white;
+        font-size: 15px;
+        margin: 0 10px 0 10px;
+    }
+    #box{
+        height: 33.2vh;
+    }
+    #text{
+        text-align: center;
+        width: 95%;
+        /* margin-left: 8px; */
+    }
+    #free{
+        font-size: 30px;
+        padding: 0%;
+      }
+    #aca{
+        font-size: 20px;
+        padding: 0%;
+    }
+    #img{
+        width: 10in;
+        height: 10in;
+        display: none;
+    }
+   #doc{
+        background-color: #4285f4;
+        width: 99%;
+    }
+    #ac{
+        color: white;
+        font-size: 28px;
+        padding-left: 50px;
+        padding-top: 40px;
+        text-align: center;
+    }
+    #container{
+        height: 50%;
+        width:85%;
+        margin: auto;
+        padding-left: 10px;
+        padding-top: 20px;
+        /* display: flex;
+        flex-wrap: wrap; */
+     }
+    #flex-item{
+        height: 350px;
+        width: 100%;
+        background-color: white;
+        margin: 10px;
+        font-size: 8px;
+        /* padding: 10px; */
+        line-height: 0.6cm;
+    }
+    #img1{
+    width: 20px;
+    height: 20px;
+    }
+    #tx{
+        font-size: 16px;
+           padding-right: 40px;
+    }
+    #txt{
+        font-size: large;
+        line-height: 0.8cm;
+    }
+    #container2{
+        font-size: 28px;
+        margin-left: 1in;
+        padding-top: 1cm;
+        height: 1in;
+        /* margin-top: 20px; */
+    }
+    #bios{
+        background-color: #f2f2f2;
+        height: 400px;
+        width: 99%;
+        margin-left: 10px;
+    }
+    #ic{
+        display: none;
+    }
+    #author{
+        font-size: 14px;
+        margin-left: 0.3in;
+        margin-top: 0.5cm;
+    }
+    hr{
+        width: 350px;
+        background-color: white;
+        margin-left: -0.7cm;
+     }
+    #words{
+        font-size: 15px;
+        line-height: 0.8cm;
+    }
+    #you{
+        text-align: center;
+    }
+    #ana{
+        font-size: 20px;
+        margin-left: 10px;
+    }
+    #for{
+        font-size: 15px;
+        margin-left: 10px;
+        line-height: 40px;
+    }
+    #cont{
+       display: flex;
+       flex-direction: column;
+    }
+       #bx{
+        width: 70%;
+        height: 150px;
+        margin-left: 30px;
+        /* display: flex; */
+        background-color: #f2f2f2;
+       }
+       #ig{
+        width: 50px;
+        height: 50px; 
+        margin-left: 95px;  
+            }
+       #getting{
+           font-size: 18px;
+           text-align: center;
+       }
+       #add{
+        height: 80%;
+        padding-top: 40px;
+        background-color: #f2f2f2;
+       }
+       #source{
+        font-size: 20px;
+        margin-left: 50px;
+         }
+        #hr1{
+            width: 340px;
+            margin-left: 5px;  
+        }
+        #flex-container{
+            flex-direction: column;
+            width: 100%;
+            margin-left: 5px;
+           }
+       #ig1{
+            width: 30px;
+            height: 30px; 
+            margin-left: 100px;  
+            }
+            #g{
+                font-size: 20px;
+                /* text-align: center; */
+                margin-right: 70px;
+            }
+            #navv{
+            display: none;
+    }
+ }

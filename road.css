@@ -1,0 +1,10 @@
+#box{
+ width: 100%;
+ height: 100vh;
+ border: 70px;
+ margin: auto;
+ /* opacity: 100%; */
+ background-image: linear-gradient( rgba(0, 0, 0, 90%) 100%, rgba(255, 255,255, 20%) 20%), url('busy\ r.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}

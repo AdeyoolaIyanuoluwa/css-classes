@@ -1,0 +1,179 @@
+header{
+    font-size: 20px;
+    margin: 10px;
+}
+#gmail{
+    margin-left: 800px;
+    font-size: 20px;
+}
+#cour{
+    height: 55px;
+    background-color: #ff7700;
+    color: white;
+    font-size: 20px;
+}
+#box{
+    height: 58.5vh;
+    display: flex;
+}
+#free{
+font-size: 40px;
+padding-left: 20vh;
+padding-right: 15vh;
+padding-top: 10px;
+}
+#aca{
+    font-size: 20px;
+padding-right: 26vh;
+padding-left: 20vh;
+padding-top: 0;
+}
+#img{
+    width: 10in;
+    height: 10in;
+}
+#ac{
+    color: white;
+    font-size: 40px;
+    padding-left: 20vh;
+    padding-top: 60px;
+}
+#doc{
+    background-color: #4285f4;
+}
+#container{
+    min-height: 50vh;
+    min-width: 50px;
+    padding-left: 20vh;
+    padding-top: 60px;
+    display: flex;
+    flex-wrap: wrap;
+ }
+#flex-item{
+    height: 450px;
+    width: 35vh;
+    background-color: white;
+    margin: 10px;
+    padding: 10px;
+    line-height: 0.9cm;
+}
+#img1{
+width: 50px;
+height: 50px;
+}
+#tx{
+    font-size: 20px;
+       padding-right: 40px;
+    font-weight: bold;
+    
+}
+#txt{
+    font-size: large;
+    line-height: 0.8cm;
+}
+#container2{
+    font-size: 28px;
+    margin-left: 1in;
+    padding-top: 1cm;
+    height: 1in;
+    /* margin-top: 20px; */
+}
+#bios{
+    background-color: #f2f2f2;
+    height: 2in;
+    display: flex;
+    flex-direction: row;
+    margin-left: 0.9in;
+    margin-right: 0.7in;
+    margin-top: 20px;
+    /* box-shadow: ; */
+}
+#author{
+    font-size: 20px;
+    margin-left: 0.3in;
+    margin-top: 0.5cm;
+}
+hr{
+    width: 10.1in;
+    background-color: tomato;
+    margin-left: -0.7cm;
+ }
+#words{
+    font-size: 15px;
+    line-height: 0.7cm;
+}
+#you{
+    margin-top: 40px;
+}
+#ana{
+    font-size: 30px;
+    margin-left: 1in;
+}
+#for{
+    font-size: 25px;
+    margin-left: 1in;
+}
+#cont{
+    display: flex;
+    margin-left: 50px;
+   }
+   #bx{
+    width: 300px;
+    height: 150px;
+    margin: 60px;
+    background-color: #f2f2f2;
+   }
+   #ig{
+    width: 50px;
+    height: 50px; 
+    margin-left: 95px;  
+        }
+   #getting{
+       /* margin-left: 10px; */
+       font-size: 18px;
+       text-align: center;
+   }
+   #add{
+    height: 45vh;
+    padding-top: 40px;
+    background-color: #f2f2f2;
+   }
+   #source{
+    font-size: 25px;
+    margin-left: 1in;
+     }
+    #hr1{
+        width: 13.8in;
+        margin-left: 5px;  
+    }
+    #flex-container{
+        display: flex;
+        margin-left: 50px;
+       }
+       #flex-items{
+        width: 300px;
+        height: 150px;
+        margin: 60px;
+       }
+       #ig1{
+        width: 50px;
+        height: 50px; 
+        margin-left: 60px;  
+        }
+        #g{
+            font-size: 20px;
+            text-align: center;
+        }
+        #navv{
+            list-style-type: none;
+            display: flex;
+            float: right;
+                   }
+        #hanchor{
+            text-decoration: none;
+            color: black;
+            font-size: 20px;
+            margin-left: 20px;
+        }
+   
+

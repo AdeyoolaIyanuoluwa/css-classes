@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+}
+#box1{
+border: thick solid blue;
+height: 23vh;
+width: 200vh;
+}
+#bx{
+    border: thick solid blue;
+width: 200vh;
+background-color: rgb(4, 4, 43);
+display: flex;
+/* text-decoration: none; */
+}
+p{
+    color: white;
+    padding-left: 110vh;
+}

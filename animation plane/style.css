@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html,body {
+    overflow-x: hidden;
+}
+#sky{
+    height: 418px;
+    width: 100%;
+}
+#road{
+    height: 250px;
+    width: 100%;
+}
+#plane{
+    height: 240px;
+    width: 28%;
+    z-index: 10;
+    /* transform: translate(20px, -600px); */
+    margin-top: -1950px;
+    margin-left: 65em;
+    animation: airplane 3s linear infinite forwards;
+}
+@keyframes airplane{
+    /* 25%{
+        transform: translateX( -500px);
+    } */
+    0%{
+        transform: translate(450px);
+    }
+    
+    20%{
+        /* transform: translate(450px); */
+        /* margin-left: -340px; */
+        /* margin-top: -3000px; */
+    }
+    40%{
+        /* transform: translate(450px); */
+        /* height: 540px; */
+    }
+
+    50%{
+        /* transform: translate(200px) rotate(-10deg); */
+        /* height: 400px; */
+        margin-top: -2950px;
+        /* margin-left: 95em; */
+    }
+
+    100%{
+        /* transform: rotate(360deg); */
+        transform: translate(-1500px);
+        /* height: 740px; */
+        /* transform: translateY(-500px); */
+    }
+}
+/* #plane{
+    height: 240px;
+    width: 28%;
+    margin-top: -550px;
+    margin-left: 65em;
+    animation-name: airplane;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ;
+    animation-fill-mode: forwards;
+    animation-direction: alternate;
+    animation-delay: 3s;
+    animation-play-state: running;
+} */

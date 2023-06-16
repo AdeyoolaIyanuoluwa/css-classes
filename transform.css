@@ -1,0 +1,12 @@
+section{
+    display: flex;
+    min-height: 70vh;
+    border: thick solid blue;
+}
+#flex{
+    display: flex;
+    min-height: 70vh;
+    min-width: 60vh;
+    border: thick solid blue;
+    background-color: aqua;
+}

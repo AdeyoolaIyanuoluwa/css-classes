@@ -1,0 +1,20 @@
+#box{
+    height: 40vh;
+    width: 80%;
+    margin: auto;
+    margin-top: 10vh;
+    /* background-color: rgb(255, 0, 0, 50%); */
+    background-color: rgb(255, 0, 0);
+    padding: 0.2in;
+    border: thick solid rgb(255, 0, 0);
+    /* opacity: 10%; */
+    /* background-image: linear-gradient(60deg, rgba(255, 0, 0, 10%) 80%, rgba(0,128,0,30%) 20%), url('download\ \(3\).png');text */
+    background-image: url('FY.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+     background-attachment: fixed; 
+     -webkit-background-clip: text;
+    color: transparent;
+    font-size: 5em;
+}
+

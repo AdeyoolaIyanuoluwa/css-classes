@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(224, 221, 221);
+}
+.container{
+    border: thick solid blue;
+    width: 120vh;
+    margin: auto;
+    position: fixed;
+    top: 10vh;
+    left: 50vh;
+    height: 85vh;
+    /* margin: auto; */
+    background-color: blue;
+}

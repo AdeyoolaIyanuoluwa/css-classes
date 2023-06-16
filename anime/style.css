@@ -1,0 +1,65 @@
+.box{
+    width: 150px;
+    height: 150px;
+    background-color: red;
+    margin: 100px auto;
+    animation-name: slide;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-out;
+    animation-fill-mode: backwards;
+    animation-direction: alternate;
+    /* animation-delay: 3s; */
+    /* animation-play-state: running; */
+}
+@keyframes tyre{
+    0%{
+        transform: rotate(0deg);
+        border-radius: 10px 50%;
+    }
+
+    50%{
+        background-color: red;
+    }
+
+    100%{
+        transform: rotate(360deg);
+        background-color: blue;
+        border-radius: 50%;
+    }
+}
+@keyframes slide {
+    0% {
+        transform: translate(0);
+    }
+
+    25% {
+        transform: translateX(300px);
+    }
+
+    50% {
+        transform: translate(300px, 300px);
+    }
+
+    
+    75% {
+        transform: translate(-300px, 300px);
+    }
+
+    
+    100% {
+        transform: translate(-300px, -300px);
+        background-color: blue;
+    }
+}
+
+@keyframes scale {
+    from {
+        transform: scale(50%);
+    }
+
+    to {
+        transform: scale(150%);
+        background-color: green;
+    }
+}

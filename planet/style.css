@@ -1,0 +1,238 @@
+body{
+  background-image: url(./space/space.jpeg);
+  overflow: hidden;
+}
+#sun img{
+    position: relative;
+    height: 100px;
+    margin: 320px;
+    margin-left: 600px;
+}
+#mercury{
+    border: thick solid white;
+    width: 200px;
+    height: 200px;
+    margin: -488px;
+    margin-left: 590px;
+    border-radius: 380px;
+    animation: planet 9s linear reverse infinite;
+} 
+#mercury img{
+    height: 30px;
+    margin: 20px;
+    margin-left: 5px;
+ }
+ #venus{
+    border: thick solid white;
+    width: 250px;
+    height: 250px;
+    margin: 250px;
+    margin-left: 560px;
+    border-radius: 380px;
+    animation: planet 5s linear infinite;
+ }
+#venus img{    
+    height: 35px;
+    margin: 200px;
+    margin-left: 12px;
+}
+#earth{
+    border: thick solid white;
+    width: 300px;
+    height: 300px;
+    margin: -545px;
+    margin-left: 535px;
+    border-radius: 380px;
+    animation: planet 5s linear infinite; 
+}
+#earth img{
+    height: 40px;
+    margin: -10px;
+    margin-left: 150px;
+}
+#mars{
+    border: thick solid white;
+    width: 350px;
+    height: 350px;
+    margin: 210px;
+    margin-left: 500px;
+    border-radius: 380px;
+    animation: planet 5s linear infinite;  
+}
+#mars img{
+    height: 33px;
+    margin: 330px;
+    margin-left: 150px;
+}
+#jupiter{
+    border: thick solid white;
+    width: 400px;
+    height: 400px;
+    margin: -595px;
+    margin-left: 470px;
+    border-radius: 380px;
+    animation: planet 5s linear infinite;  
+}
+#jupiter img{
+    height: 50px;
+    margin: 30px;
+    margin-left: 320px;
+}
+#saturn{
+    border: thick solid white;
+    width: 450px;
+    height: 450px;
+    margin: 159px;
+    margin-left: 440px;
+    border-radius: 380px;
+    animation: planet 5s linear infinite; 
+}
+#saturn img{
+    height: 45px;
+    margin: 370px;
+    margin-left: 350px; 
+}
+#uranus{
+    border: thick solid white;
+    width: 500px;
+    height: 500px;
+    margin: -650px;
+    margin-left: 410px;
+    border-radius: 380px;
+    animation: planet 5s linear infinite; 
+}
+#uranus img{
+    height: 40px;
+    margin: 200px;
+    margin-left: 480px;
+}
+#neptune{
+    border: thick solid white;
+    width: 550px;
+    height: 550px;
+    margin: 120px;
+    margin-left: 380px;
+    border-radius: 380px;
+    animation: planet 5s linear infinite;
+}
+#neptune img{
+    height: 45px;
+    margin: 340px;
+    margin-left: 520px;
+}
+#pluto{
+    border: thick solid white;
+    width: 600px;
+    height: 600px;
+    margin: -700px;
+    margin-left: 350px;
+    border-radius: 380px;
+    animation: planet 5s linear infinite;
+}
+#pluto img{
+    height: 30px;
+    margin: 300px;
+    margin-left: 590px; 
+}
+@keyframes planet{
+    0%{
+        transform: rotate(0deg);
+    }
+    100%{
+        transform: rotate(-360deg);
+    }
+}
+/* #rocket{
+    width: 600px;
+    height: 600px;
+    position: fixed;
+    left: 35%;
+    top: 15%;  
+    transform: rotateZ(-70deg);
+}
+#com1{
+    width: 90px;
+    height: 90px;
+    position: fixed;
+    left: 80%;
+    top: 10%;  
+}
+#com2{
+    width: 90px;
+    height: 90px;
+    position: fixed;
+    left: 30%;
+    top: 80%;  
+} */
+/* #text1{
+    position: fixed;
+    top: 50%;
+    left: 5%;
+    color: white;
+}
+#text2{
+    position: fixed;
+    top: 41%;
+    left: 19%;
+    color: white;
+}
+#text3{
+    position: fixed;
+    top: 70%;
+    left: 23%;
+    color: white;
+}
+#text4{
+    position: fixed;
+    top: 32%;
+    left: 34%;
+    color: white;
+}
+#text5{
+    position: fixed;
+    top: 86%;
+    left: 43%;
+    color: white;
+}
+#text6{
+    position: fixed;
+    top: 44%;
+    left: 56%;
+    color: white;
+}
+#text7{
+    position: fixed;
+    top: 90%;
+    left: 58%;
+    color: white;
+}
+#text8{
+    position: fixed;
+    top: 58%;
+    left: 78%;
+    color: white;
+}
+#text9{
+    position: fixed;
+    top: 90%;
+    left: 76%;
+    color: white;
+}
+#text10{
+    position: fixed;
+    top: 74%;
+    left: 90%;
+    color: white;
+} */
+/* #ast{
+    width: 90px;
+    height: 90px;
+    position: fixed;
+    left: 90%;
+    top: 20%;  
+} */
+
+
+  
+
+

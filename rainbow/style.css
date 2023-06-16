@@ -1,0 +1,26 @@
+body{
+  background-color: black;
+}
+#box{
+        border-radius: 50%;
+         height: 300px;
+        width: 300px;
+        margin: auto;
+         box-shadow: 
+         0 0 0 10px red,
+         0 0 0 20px orange,
+         0 0 0 30px yellow,
+         0 0 0 40px green,
+         0 0 0 50px blue,
+         0 0 0 60px indigo,
+         0 0 0 70px violet;
+           margin-top: 20vh;
+       
+}
+#shadow{
+    width: 100vh;
+    height: 50vh;
+    transform: translateY(-20vh);
+    margin: auto;
+    background-color: black;
+}

@@ -1,0 +1,24 @@
+#box{
+    height: 4in;
+    width: 4in;
+    margin: auto;
+    margin-top: 10vh;
+    background-color: #d94625;
+    padding: 0.2in;
+}
+#box2{
+    height: 50vh;
+    width: 50vh;
+    margin: auto;
+    margin-top: 50px;
+    border: thick solid white;
+    
+}
+#second{
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    transform: translateX(170px);
+    margin-top: 30px;
+}
+

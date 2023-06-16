@@ -1,0 +1,30 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;700&family=Roboto:wght@700&display=swap');
+
+#box h1{
+    font-family: 'Book Antiqua';
+}
+#box h2{
+    font-family: 'quicksand', sans-serif;
+    font-weight: 600; */
+
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;700&family=Roboto:wght@700&display=swap');
+#box{
+    font-family: 'pacifito';
+    font-weight: 400;
+    font-size: 4em;
+    /* font-variant: small-caps; */
+    text-transform: none;
+    text-indent: 70px;
+    /* text-decoration: line-through double 5px lime; */
+    /* letter-spacing: 20px; */
+    /* word-spacing: 50px; */
+    text-align: center;
+    line-height: 2;
+    text-shadow: -15px 15px 10px red;
+    color: transparent;
+    -webkit-text-stroke: 1px red;
+
+}
+/* #second{
+    font-family: 'pacifito', sans-serif;
+} */

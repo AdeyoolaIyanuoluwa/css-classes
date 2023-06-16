@@ -1,0 +1,140 @@
+#box1{
+    text-align: center;
+}
+#box{
+    margin-top: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    line-height: 3em;
+    padding-left: 4in;
+    padding-right: 4in;
+}
+#heading{
+font-family: Arial, Helvetica, sans-serif;
+font-size: large;
+}
+#written{
+      font-size: large;
+    line-height: 1.6em;
+    padding-left: 4.3in;
+    padding-right: 4.3in;
+}
+#thought{
+    margin-top: 1.7vh;
+    padding-right: 3.2in;
+    padding-left: 3.2in;
+    font-size: large;
+    font-weight: 100;
+    line-height: 0.8cm;
+    text-align: justify;
+}
+#heading2{
+    margin-top: 2vh;
+font-family: Arial, Helvetica, sans-serif;
+font-size: large;
+padding-right: 2.3in;
+/* padding-left: 3.2in; */
+}
+#april{
+    margin-top: 2vh;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    padding-right: 2.3in;  
+}
+#interview{
+    margin-top: 2vh;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    padding-right: 2.9in;  
+}
+#steal{
+    margin-top: 2vh;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    padding-right: 3.7in;   
+}
+
+#using{
+    margin-top: 2vh;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    padding-right: 1.3in;    
+}
+#tips{
+    margin-top: 2vh;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    padding-right: 2.0in;      
+}
+#tech{
+    margin-top: 2vh;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    padding-right: 3in;  
+}
+#figma{
+    margin-top: 2vh;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    padding-right: 1.1in;  
+}
+#aka{
+    margin-top: 2vh;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    padding-right: 1.1in;       
+}
+#sign{
+    padding: 0.2in;
+}
+
+#logo{
+    width: 180px;
+    height: 50px;
+    margin-left: 20px;
+}
+nav{
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+    background-color: white;
+    margin-left: -10px;
+    margin-top: -80px;
+    z-index: 1;
+}
+#hanchor{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    margin-left: 20px;
+}
+#hanchor:hover{
+    color: red;
+}
+#navv{
+    list-style-type: none;
+    display: flex;
+    float: right;
+    margin-right: 20px;
+}
+li{
+    margin-left: 20px;
+}
+#how{
+    background-color: red;
+    border: none;
+    padding: 15px;
+    margin-top: -10px;
+}
+footer{
+    background-color: rgb(246, 244, 244);
+    width: 103.1%;
+    height: 40vh;
+    margin-top: 15vh;
+    margin-left: -5vh;
+}
+#foot{
+    list-style: none;
+    font-size: 20px;
+    line-height: 2;
+}
